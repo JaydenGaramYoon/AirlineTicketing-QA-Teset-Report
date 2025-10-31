@@ -1,3 +1,4 @@
+# System Structure
 airline-ticketing-qasuite/
 │
 ├── src/
@@ -25,8 +26,6 @@ airline-ticketing-qasuite/
 └── pom.xml
 
 
-
-🧾 README.md
 # Airline Ticketing System - QA Test Suite (JUnit + E2E)
 
 This repository contains automated JUnit test cases and QA analysis artifacts for the Airline Ticketing System.  
