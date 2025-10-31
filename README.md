@@ -16,7 +16,7 @@ The pass rate shows complete coverage but highlights **stability and validation 
 ### QA Analysis Summary (Integrated E2E + JUnit)
 
 [Click here to view/download the full QA Analysis Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
-<img width="692" height="791" alt="image" src="https://github.com/user-attachments/assets/c7a4c84a-7799-4082-8d14-1b2f8cbf59be" />
+<img width="1542" height="502" alt="image" src="https://github.com/user-attachments/assets/5ba1c33c-7fd7-48bc-9cb3-476fa4290f7e" />
 
 
 ### Test1 - E2E Manual Testing Summary
@@ -29,15 +29,17 @@ The pass rate shows complete coverage but highlights **stability and validation 
 ### Test2 - JUnit Automation Testing Summary
 
 [Click here to view/download the full JUnit Automation Testing Report & Summary](https://drive.google.com/file/d/1EAvdE0RuNw5F-Q_k2kUKj0SOO6EtxeQ7/view?usp=sharing)
-<img width="871" height="400" alt="image" src="https://github.com/user-attachments/assets/133e1508-2f77-4cd7-ae66-d62af66cee48" />
+<img width="1426" height="655" alt="image" src="https://github.com/user-attachments/assets/58add02e-7d9a-4918-8fa6-f414446997c7" />
 
 
----
+
 
 ## 3. Requirement Traceability Matrix (Summary)
 
 [Click here view/download the full RTM Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
-<img width="869" height="348" alt="image" src="https://github.com/user-attachments/assets/50f8fbf9-6929-4d64-a7c9-7e761c4da615" />
+<img width="792" height="432" alt="image" src="https://github.com/user-attachments/assets/5a5344ad-e721-42da-993d-ea752b5200bb" />
+<img width="949" height="685" alt="image" src="https://github.com/user-attachments/assets/bdd6aae1-4e00-45e3-a5d5-1a19ee934463" />
+
 
 
 
