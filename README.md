@@ -1,16 +1,38 @@
-# System Structure
+# Folder Structure
 ```bash
-airline-ticketing-qasuite/
+📁 airline-ticketing-qasuite/
 │
 ├── src/
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── airline/
-│                   ├── SellTicketTest.java
-│                   ├── SeatReservationTest.java
-│                   ├── PassengerValidationTest.java
-│                   └── FlightManifestTest.java
+│   ├── com/cc/airline/passengers/
+│   │   ├── FrequentFlyer.java
+│   │   ├── Passenger.java
+│   │   ├── PassengerName.java
+│   │   └── StaffPassenger.java
+│   │
+│   ├── com/cc/airline/ticketing/
+│   │   ├── Discountable.java
+│   │   ├── Seat.java
+│   │   ├── SeatingClass.java
+│   │   ├── SeatingPlan.java
+│   │   └── Ticket.java
+│   │
+│   ├── com/cc/airline/utilities/
+│   │   ├── Manifest.java
+│   │   ├── SeatReserver.java
+│   │   └── UserPrompter.java
+│   │
+│   └── garam/yoon/airticket/requirements/tests/
+│       ├── AirTicketTestSuite.java
+│       ├── BusinessRowTest.java
+│       ├── FrequentFlyerTest.java
+│       ├── PassengerTypeTest.java
+│       ├── SeatDuplicateAutoTest.java
+│       ├── SeatingClassTest.java
+│       ├── SeatingPlanTest.java
+│       ├── SeatReserverAutoTest.java
+│       └── SellTicketTest.java
+│
+├── META-INF/
 │
 ├── reports/
 │   ├── QA_Analysis_Summary.xlsx
@@ -23,8 +45,7 @@ airline-ticketing-qasuite/
 │   ├── BUG-PROMPT-TC06-005.png
 │   └── ...
 │
-├── README.md
-└── pom.xml
+└── README.md
 ```
 
 
