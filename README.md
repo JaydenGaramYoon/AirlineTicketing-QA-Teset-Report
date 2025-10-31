@@ -37,8 +37,7 @@ The pass rate shows complete coverage but highlights **stability and validation 
 ## 3. Requirement Traceability Matrix (Summary)
 
 [Click here view/download the full RTM Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
-<img width="748" height="582" alt="image" src="https://github.com/user-attachments/assets/fb6a5ef3-a2dd-482d-9412-df52a75b1001" />
-<img width="895" height="513" alt="image" src="https://github.com/user-attachments/assets/3889d754-18e6-4663-9da0-3e991a143eb1" />
+<img width="648" height="482" alt="image" src="https://github.com/user-attachments/assets/fb6a5ef3-a2dd-482d-9412-df52a75b1001" /><img width="595" height="213" alt="image" src="https://github.com/user-attachments/assets/3889d754-18e6-4663-9da0-3e991a143eb1" />
 
 
 
