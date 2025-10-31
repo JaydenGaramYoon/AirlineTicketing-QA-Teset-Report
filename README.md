@@ -1,7 +1,7 @@
 # Airline Ticketing System - QA Test Suite (JUnit + E2E)
 
-This repository contains automated JUnit test cases and QA analysis artifacts for the Airline Ticketing System.  
-It includes both functional and non-functional testing to validate core business logic, seat management, and console behavior.
+This repository contains **automated JUnit test cases and QA analysis artifacts** for the Airline Ticketing System.  
+It includes both **functional and non-functional testing** to validate core business logic, seat management, and console behavior.
 
 
 ## 1. Project Overview
