@@ -1,14 +1,14 @@
-📁 Repository Structure
-airline-ticketing-qasuite/
+📁 airline-ticketing-qasuite/
 │
 ├── src/
 │   └── test/
 │       └── java/
-│           └── com/airline/
-│               ├── SellTicketTest.java
-│               ├── SeatReservationTest.java
-│               ├── PassengerValidationTest.java
-│               └── FlightManifestTest.java
+│           └── com/
+│               └── airline/
+│                   ├── SellTicketTest.java
+│                   ├── SeatReservationTest.java
+│                   ├── PassengerValidationTest.java
+│                   └── FlightManifestTest.java
 │
 ├── reports/
 │   ├── QA_Analysis_Summary.xlsx
@@ -23,6 +23,7 @@ airline-ticketing-qasuite/
 │
 ├── README.md
 └── pom.xml
+
 
 🧾 README.md
 # Airline Ticketing System - QA Test Suite (JUnit + E2E)
