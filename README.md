@@ -16,7 +16,7 @@ The pass rate shows complete coverage but highlights **stability and validation 
 ### QA Analysis Summary (Integrated E2E + JUnit)
 
 [Click here to view/download the full QA Analysis Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
-<img width="1542" height="502" alt="image" src="https://github.com/user-attachments/assets/5ba1c33c-7fd7-48bc-9cb3-476fa4290f7e" />
+<img width="1083" height="652" alt="image" src="https://github.com/user-attachments/assets/d8711ddd-473e-4316-9542-4ce78c4dcc59" />
 
 
 ### Test1 - E2E Manual Testing Summary
