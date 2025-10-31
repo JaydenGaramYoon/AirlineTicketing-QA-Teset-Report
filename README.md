@@ -1,4 +1,4 @@
-📁 airline-ticketing-qasuite/
+airline-ticketing-qasuite/
 │
 ├── src/
 │   └── test/
@@ -23,6 +23,7 @@
 │
 ├── README.md
 └── pom.xml
+
 
 
 🧾 README.md
