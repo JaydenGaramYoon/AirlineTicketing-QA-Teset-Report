@@ -1,4 +1,5 @@
 # System Structure
+```bash
 airline-ticketing-qasuite/
 │
 ├── src/
@@ -24,6 +25,7 @@ airline-ticketing-qasuite/
 │
 ├── README.md
 └── pom.xml
+```
 
 
 # Airline Ticketing System - QA Test Suite (JUnit + E2E)
