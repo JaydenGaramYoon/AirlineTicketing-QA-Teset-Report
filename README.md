@@ -8,7 +8,6 @@ It includes both functional and non-functional testing to validate core business
 
 This project focuses on **quality assurance testing** for the **Airline Ticketing Application** developed in **Java**. The goal was to verify that all business and non-functional requirements were correctly implemented through a combination of **JUnit and End-to-End (E2E) tests**. Key testing areas included **seat management, discount logic, and prompt validation**.
 
----
 
 ## 2. Key QA Metrics into Charts
 
@@ -17,23 +16,19 @@ The pass rate shows complete coverage but highlights **stability and validation 
 ### QA Analysis Summary (Integrated E2E + JUnit)
 
 [Click here to view/download the full QA Analysis Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
-
-<img width="869" height="376" alt="image" src="https://github.com/user-attachments/assets/206cb68f-696e-4c0e-b9ed-90de55330d94" />
+<img width="692" height="791" alt="image" src="https://github.com/user-attachments/assets/c7a4c84a-7799-4082-8d14-1b2f8cbf59be" />
 
 
 ### Test1 - E2E Manual Testing Summary
 
 [Click here to view/download the full E2E Testing Report & Summary](https://drive.google.com/file/d/1enqC51quYm9jrQXN-RLd7kAvkiuWcCLb/view?usp=sharing)
+<img width="869" height="376" alt="image" src="https://github.com/user-attachments/assets/206cb68f-696e-4c0e-b9ed-90de55330d94" />
 
-1. Test Metrics Summary
-
-<img width="868" height="402" alt="image" src="https://github.com/user-attachments/assets/571b1ca4-75ea-46a5-82d5-9f6f24443213" />
 
 
 ### Test2 - JUnit Automation Testing Summary
 
 [Click here to view/download the full JUnit Automation Testing Report & Summary](https://drive.google.com/file/d/1EAvdE0RuNw5F-Q_k2kUKj0SOO6EtxeQ7/view?usp=sharing)
-
 <img width="871" height="400" alt="image" src="https://github.com/user-attachments/assets/133e1508-2f77-4cd7-ae66-d62af66cee48" />
 
 
