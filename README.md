@@ -44,7 +44,6 @@ cd airline-ticketing-qasuite
 mvn test
 
 ## Folder Structure
-```bash
 📁 airline-ticketing-qasuite/
 │
 ├── src/
