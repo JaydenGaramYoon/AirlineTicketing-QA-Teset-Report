@@ -18,7 +18,8 @@ The pass rate shows complete coverage but highlights **stability and validation 
 
 [Click here to view/download the full QA Analysis Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
 
-![image.png](attachment:8c8a0be9-901f-4145-9b88-afc4f8e89aa9:88f886a6-cd08-4a43-b2d3-b5d9509bff7b.png)
+<img width="869" height="376" alt="image" src="https://github.com/user-attachments/assets/206cb68f-696e-4c0e-b9ed-90de55330d94" />
+
 
 ### Test1 - E2E Manual Testing Summary
 
@@ -26,7 +27,8 @@ The pass rate shows complete coverage but highlights **stability and validation 
 
 1. Test Metrics Summary
 
-![image.png](attachment:b378013a-ed3c-4356-a010-44c71ff7d26e:image.png)
+<img width="868" height="402" alt="image" src="https://github.com/user-attachments/assets/571b1ca4-75ea-46a5-82d5-9f6f24443213" />
+
 
 1. Defect Summary
 
@@ -36,37 +38,25 @@ The pass rate shows complete coverage but highlights **stability and validation 
 
 [Click here to view/download the full JUnit Automation Testing Report & Summary](https://drive.google.com/file/d/1EAvdE0RuNw5F-Q_k2kUKj0SOO6EtxeQ7/view?usp=sharing)
 
-1. Test Metrics Summary
+<img width="871" height="400" alt="image" src="https://github.com/user-attachments/assets/133e1508-2f77-4cd7-ae66-d62af66cee48" />
 
-![image.png](attachment:1dc3f2cb-952b-4f3f-b2c7-36b3042f1c05:image.png)
-
-1. Defect Summary
-
-![image.png](attachment:622026b6-2b93-40e5-90e6-72de105fe25c:image.png)
 
 ---
 
 ## 3. Requirement Traceability Matrix (Summary)
 
 [Click here view/download the full RTM Summary](https://drive.google.com/file/d/1n77h9l8swsNiiOj4CLZjrl_jFBy4_DEm/view?usp=sharing) 
+<img width="869" height="348" alt="image" src="https://github.com/user-attachments/assets/50f8fbf9-6929-4d64-a7c9-7e761c4da615" />
 
-1. Requirements Traceability Matrix
 
-![image.png](attachment:d6f8a4cf-1661-4398-bfd3-f0fa78b58d66:image.png)
-
-1. Requirement Pass/Fail Status Overview
-
-![image.png](attachment:2dd70b79-3f6c-4704-a660-6fd83b08428a:image.png)
 
 ## 4. Defect Analysis
 
 **Most critical defects were related to synchronization issues in seat management**. Multiple tests confirmed that seat allocation states were not consistently updated between Business and Economy classes. **Another recurring issue was input validation failure in user prompts**, where the system failed to exit invalid input loops properly. These indicate the need for synchronization locks and centralized validation control.
 
-![image.png](attachment:47428f0a-7cc6-424e-94a1-a21ecab027cb:image.png)
-
 ## 5. Key Observations
+<img width="851" height="308" alt="image" src="https://github.com/user-attachments/assets/a976e8b1-56b0-404a-9627-43a6e71999d3" />
 
-![image.png](attachment:fb2e1198-605d-466f-986c-0c10c5b49343:image.png)
 
 ## 6. Recommendations
 
