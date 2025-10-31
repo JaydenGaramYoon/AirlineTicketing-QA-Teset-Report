@@ -76,7 +76,7 @@ cd airline-ticketing-qasuite
 mvn test
 
 # Folder Structure
-📁 airline-ticketing-qasuite/
+📁 JUnit/
 │
 ├── src/
 │   ├── com/cc/airline/passengers/
