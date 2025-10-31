@@ -43,7 +43,7 @@ cd airline-ticketing-qasuite
 # Run all JUnit tests
 mvn test
 
-## Folder Structure
+# Folder Structure
 📁 airline-ticketing-qasuite/
 │
 ├── src/
