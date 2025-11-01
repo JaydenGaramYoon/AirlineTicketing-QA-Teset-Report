@@ -28,7 +28,8 @@ The pass rate shows complete coverage but highlights **stability and validation 
 ### Test2 - JUnit Automation Testing Summary
 
 [Click here to view/download the full JUnit Automation Testing Report & Summary](https://drive.google.com/file/d/1EAvdE0RuNw5F-Q_k2kUKj0SOO6EtxeQ7/view?usp=sharing)
-<img width="1430" height="656" alt="image" src="https://github.com/user-attachments/assets/0e3a6ce3-24ee-4ba3-90e6-e8486c5f22a4" />
+<img width="1425" height="664" alt="image" src="https://github.com/user-attachments/assets/ef6ec565-d811-44e8-b045-0c5dd943af23" />
+
 
 
 
